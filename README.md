@@ -1,6 +1,8 @@
-#Introduction 
+# Introduction 
 
 This an end-to-end data scienece project using Nueral Netwroks to make short-term energy consumption and generation forecasts. 
+
+# Notebooks 
 
 The **Notebooks** folder contains .ipynb files with some of the data used in this project. The notebooks include pre-processing, EDA, and neural net implementations. They can be viewed in the links below 
   
@@ -9,6 +11,8 @@ The **Notebooks** folder contains .ipynb files with some of the data used in thi
 **- Residnetial Household Consumption:** https://nbviewer.jupyter.org/github/Castaldo/Neural-Nets-Energy-Forecasting/blob/master/Notebooks/Granular%20Consumption/House.ipynb
 
 **- Large Hotel Consumption:** https://nbviewer.jupyter.org/github/Castaldo/Neural-Nets-Energy-Forecasting/blob/master/Notebooks/Granular%20Consumption/Hotel.ipynb
+
+# Python 
 
 The **Project** contains all the Python implementation of the project. 
 
@@ -22,4 +26,4 @@ The **Project** contains all the Python implementation of the project.
 
 > **Pre-Processing** - This folder contains all the files that transformed the data. There are two seperate scripts. One contains the transformations on the unprocessed data and the other contains the transfomrtaion necessary for the model.
 
-> **Saved_Models** - This foder contains each datasets saved models
+> **Saved_Models** - This foder contains each datasets saved model
