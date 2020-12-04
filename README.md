@@ -1,3 +1,5 @@
+#Introduction 
+
 This an end-to-end data scienece project using Nueral Netwroks to make short-term energy consumption and generation forecasts. 
 
 The **Notebooks** folder contains .ipynb files with some of the data used in this project. The notebooks include pre-processing, EDA, and neural net implementations. They can be viewed in the links below 
