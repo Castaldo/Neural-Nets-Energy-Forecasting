@@ -2,7 +2,7 @@ This an end-to-end data scienece project using Nueral Netwroks to make short-ter
 
 The **Notebooks** folder contains .ipynb files with some of the data used in this project. The notebooks include pre-processing, EDA, and neural net implementations. They can be viewed in the links below 
   
-**- France Renewable Genertaion:** https://nbviewer.jupyter.org/github/Castaldo/Neural-Nets-Energy-          Forecasting/blob/master/Notebooks/Renewable%20Generation/French_Generation.ipynb
+**- France Renewable Genertaion:** https://nbviewer.jupyter.org/github/Castaldo/Neural-Nets-Energy-                     Forecasting/blob/master/Notebooks/Renewable%20Generation/French_Generation.ipynb
 
 **- Residnetial Household Consumption:** https://nbviewer.jupyter.org/github/Castaldo/Neural-Nets-Energy-Forecasting/blob/master/Notebooks/Granular%20Consumption/House.ipynb
 
