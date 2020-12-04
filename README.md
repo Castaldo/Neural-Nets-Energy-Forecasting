@@ -16,7 +16,9 @@ The **Notebooks** folder contains .ipynb files with some of the data used in thi
 
 The **Project** contains all the Python implementation of the project. 
 
-**Dashboards** - This folder contains the four GUI's for the applictaion. When you run either of the scripts, the GUI will appear on http://127.0.0.1:8050/
+**Dashboards** - This folder contains the four GUI's for the applictaion. When you run either of the scripts, the GUI will appear on http://127.0.0.1:8050/. The GUI is demonstarted below 
+
+![alt text](https://imgur.com/XJdFtNI.png)
 
 **Data** - This folder contains all the CSV filed used in this porject. The 'Predicetd' folder contains the predicted values that each network made on the training data.
 
