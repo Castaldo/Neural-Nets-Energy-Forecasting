@@ -1,8 +1,8 @@
-# Introduction 
+## Introduction 
 
-This an end-to-end data scienece project using Nueral Netwroks to make short-term energy consumption and generation forecasts. 
+This an end-to-end data scienece project using Nueral Netwroks to make short-term energy consumption and generation forecasts. A more detailed report on thsi project can be found in the **Applications of Neural Networks for Time Series Energy Forecasting.pdf**
 
-# Notebooks 
+## Notebooks 
 
 The **Notebooks** folder contains .ipynb files with some of the data used in this project. The notebooks include pre-processing, EDA, and neural net implementations. They can be viewed in the links below 
   
@@ -12,7 +12,7 @@ The **Notebooks** folder contains .ipynb files with some of the data used in thi
 
 **- Large Hotel Consumption:** https://nbviewer.jupyter.org/github/Castaldo/Neural-Nets-Energy-Forecasting/blob/master/Notebooks/Granular%20Consumption/Hotel.ipynb
 
-# Python 
+## Code 
 
 The **Project** contains all the Python implementation of the project. 
 
